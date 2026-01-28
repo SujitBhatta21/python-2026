@@ -1,5 +1,7 @@
+#Seems required for notebook
+traitlets==5.9.0
 #Jupyter notebook
-jupyter==1.0.0
+jupyter==1.1.1
 #Remote SPARQL access
 SPARQLWrapper==1.8.5
 #Ontology access
