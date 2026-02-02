@@ -2,7 +2,7 @@
 traitlets==5.9.0
 #Jupyter notebook
 jupyter==1.1.1
-#Remote SPARQL access
+#Remote SPARQL accedd
 SPARQLWrapper==1.8.5
 #Ontology access
 OWLready2==0.45
