@@ -161,3 +161,6 @@ cython_debug/
 
 .project
 .pydevproject
+
+student-codes-data/*.*
+student-codes-data/
