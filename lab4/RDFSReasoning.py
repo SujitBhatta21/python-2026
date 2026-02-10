@@ -23,7 +23,7 @@ def RDFSInference():
 
     
     print("\nSaving extended graph")
-    g.serialize(destination='data/lab-rdfs-extended.ttl', format='ttl')
+    g.serialize(destination='../student-codes-data/lab-rdfs-extended.ttl', format='ttl')
 
 
 

@@ -24,7 +24,7 @@ def OWLRLInference():
     checkEntailments(g)
         
     print("\nSaving extended graph")
-    g.serialize(destination='data/lab-owl2rl-extended.ttl', format='ttl')
+    g.serialize(destination='../student-codes-data/lab-owl2rl-extended.ttl', format='ttl')
     
 
 
